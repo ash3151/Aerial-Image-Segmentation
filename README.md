@@ -1,4 +1,6 @@
 # Aerial Image Semantic Segmentation Using Vision Transformers and UNet  
+![{294200B9-3B6F-4400-9848-7EAA9D9777C6}](https://github.com/user-attachments/assets/f22f03e2-821a-4146-a39e-de49832ea355)
+
 
 This project implements semantic segmentation on aerial images to classify features like water, vegetation, buildings, and roads using Vision Transformers (ViT) combined with a UNet architecture.  
 
