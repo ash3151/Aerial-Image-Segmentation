@@ -52,5 +52,5 @@ This project implements semantic segmentation on aerial images to classify featu
 
 1. **Clone the Repository:**  
    ```bash  
-   git clone https://github.com/<your-username>/<repository-name>.git  
-   cd <repository-name>  
+   git clone https://github.com/ash3151/Aerial-Image-Segmentation.git
+   cd Aerial-Image-Segmentation 
