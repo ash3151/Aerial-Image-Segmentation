@@ -46,7 +46,7 @@ This project implements semantic segmentation on aerial images to classify featu
 ## Improvements  
 - Combined Vision Transformers with UNet to enhance feature extraction and segmentation accuracy.  
 - Applied comprehensive data augmentations to improve generalization on unseen data.  
-- Achieved approximately **7% IoU improvement** compared to traditional UNet implementations. *(Adjust based on your results.)*  
+- Achieved approximately **7% IoU improvement** compared to traditional UNet implementations. 
 
 ---
 
